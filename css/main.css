@@ -39,7 +39,7 @@ a:not(.no-highlight) {
 }
 
 ol li:first-child {
-  background-color: #657ba3;
+  background-color: #719e47;
 }
 
 ol li:last-child {
@@ -47,7 +47,7 @@ ol li:last-child {
 }
 
 .types li:nth-child(odd) {
-  background-color: #586e75;
+  background-color: #657ba3;
 }
 
 .types li:nth-child(even) {
