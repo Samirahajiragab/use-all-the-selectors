@@ -1,0 +1,16 @@
+body[
+background-color: #fd6e3;
+]
+header{
+  font-size: 1.5rem;
+}
+footer{
+  font-size: 1.5rem
+}
+nav ul{
+  font-family: sans-serif;
+}
+no-highlight{
+   text-transform: uppercase;
+   background-color: #eee8d5;
+}
